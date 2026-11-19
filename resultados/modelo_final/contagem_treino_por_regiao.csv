@@ -1,0 +1,23 @@
+classe;regiao;arcada;caixas
+dente impactado;molares;inferior;282
+dente impactado;molares;superior;228
+cárie;incisivos e caninos;inferior;46
+cárie;incisivos e caninos;superior;118
+cárie;molares;inferior;685
+cárie;molares;superior;588
+cárie;pré-molares;inferior;245
+cárie;pré-molares;superior;195
+lesão periapical;incisivos e caninos;inferior;22
+lesão periapical;incisivos e caninos;superior;15
+lesão periapical;molares;inferior;60
+lesão periapical;molares;superior;10
+lesão periapical;pré-molares;inferior;20
+lesão periapical;pré-molares;superior;9
+cárie profunda;incisivos e caninos;inferior;9
+cárie profunda;incisivos e caninos;superior;20
+cárie profunda;molares;inferior;182
+cárie profunda;molares;superior;168
+cárie profunda;pré-molares;inferior;63
+cárie profunda;pré-molares;superior;49
+# cárie em incisivos e caninos: 164 de 1877 (8.7%)
+# 576 imagens de treinamento com anotação (599 no treinamento do modelo final; 23 sem caixas). Rodado no Kaggle em 10/11/2026.

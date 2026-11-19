@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Dados, pesos e artefatos pesados não entram no repositório
+*.pt
+*.zip
+dentex_yolo/
+runs/
+imagens_teste/
+pacote_especialista/

@@ -1,0 +1,4 @@
+contagem;anotacoes;VP;FP;FN;precisao;revocacao;ic95_inf;ic95_sup;F1
+classes separadas;399;189;177;210;0.516;0.474;0.425;0.523;0.494
+classe unida;399;216;145;183;0.598;0.541;0.492;0.590;0.568
+# caixas duplicadas removidas na classe unida (IoU >= 0.7): 5

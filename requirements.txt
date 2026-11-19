@@ -1,0 +1,13 @@
+# Versões do ambiente em que os experimentos foram executados (Kaggle, 2026):
+#   Python 3.13.15, PyTorch 2.11.0 (CUDA 12.8), 1 GPU Tesla T4.
+ultralytics==8.4.183
+remotezip
+huggingface_hub
+pyyaml
+pycocotools
+openpyxl
+numpy
+pandas
+scikit-learn
+matplotlib
+pillow

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Se você usar este código, cite o trabalho abaixo."
+type: software
+title: "Detecção de patologias em radiografias panorâmicas com YOLOv8 e a base DENTEX (código do TCC II)"
+authors:
+  - family-names: "Oliveira"
+    given-names: "Mauro Artur Gomes de"
+license: MIT
+preferred-citation:
+  type: thesis
+  title: "Desenvolvimento e Avaliação de um Modelo de Deep Learning para Detecção de Patologias em Radiografias Panorâmicas"
+  authors:
+    - family-names: "Oliveira"
+      given-names: "Mauro Artur Gomes de"
+  year: 2026
+  thesis-type: "Trabalho de Conclusão de Curso (Bacharelado em Ciência da Computação)"
+  institution:
+    name: "Universidade Federal de Pelotas"
+references:
+  - type: article
+    authors:
+      - family-names: "Hamamci"
+        given-names: "Ibrahim Ethem"
+    title: "DENTEX: Dental Enumeration and Tooth Pathosis Detection Benchmark for Panoramic X-rays"
+    journal: "arXiv preprint arXiv:2305.19112"
+    year: 2023
+    url: "https://arxiv.org/abs/2305.19112"
+    notes: "Lista parcial de autores."

@@ -1,0 +1,4 @@
+,imagens,caixas_dente impactado,caixas_cárie,caixas_lesão periapical,caixas_cárie profunda,imgs_dente impactado,imgs_cárie,imgs_lesão periapical,imgs_cárie profunda
+train,599,510,1877,136,491,219,527,99,272
+val,50,40,101,9,32,16,37,7,20
+test,106,94,312,22,87,35,96,17,49

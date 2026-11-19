@@ -1,0 +1,30 @@
+classe;regiao;arcada;anotacoes;encontradas;revocacao;ic95_inf;ic95_sup
+cárie;incisivos e caninos;ambas;18;4;0.222;0.090;0.452
+cárie;incisivos e caninos;inferior;6;0;0.000;0.000;0.390
+cárie;incisivos e caninos;superior;12;4;0.333;0.138;0.609
+cárie;molares;ambas;215;111;0.516;0.450;0.582
+cárie;molares;inferior;115;61;0.530;0.440;0.619
+cárie;molares;superior;100;50;0.500;0.404;0.596
+cárie;pré-molares;ambas;79;32;0.405;0.304;0.515
+cárie;pré-molares;inferior;43;19;0.442;0.304;0.589
+cárie;pré-molares;superior;36;13;0.361;0.225;0.524
+cárie profunda;incisivos e caninos;ambas;2;0;0.000;0.000;0.658
+cárie profunda;incisivos e caninos;inferior;1;0;0.000;0.000;0.793
+cárie profunda;incisivos e caninos;superior;1;0;0.000;0.000;0.793
+cárie profunda;molares;ambas;71;40;0.563;0.448;0.673
+cárie profunda;molares;inferior;45;23;0.511;0.370;0.650
+cárie profunda;molares;superior;26;17;0.654;0.462;0.806
+cárie profunda;pré-molares;ambas;14;2;0.143;0.040;0.399
+cárie profunda;pré-molares;inferior;9;2;0.222;0.063;0.547
+cárie profunda;pré-molares;superior;5;0;0.000;0.000;0.434
+lesão periapical;incisivos e caninos;ambas;6;0;0.000;0.000;0.390
+lesão periapical;incisivos e caninos;inferior;4;0;0.000;0.000;0.490
+lesão periapical;incisivos e caninos;superior;2;0;0.000;0.000;0.658
+lesão periapical;molares;ambas;11;2;0.182;0.051;0.477
+lesão periapical;molares;inferior;11;2;0.182;0.051;0.477
+lesão periapical;pré-molares;ambas;5;2;0.400;0.118;0.769
+lesão periapical;pré-molares;inferior;3;2;0.667;0.208;0.939
+lesão periapical;pré-molares;superior;2;0;0.000;0.000;0.658
+dente impactado;molares;ambas;94;85;0.904;0.828;0.949
+dente impactado;molares;inferior;56;50;0.893;0.785;0.950
+dente impactado;molares;superior;38;35;0.921;0.792;0.973
