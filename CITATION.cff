@@ -6,6 +6,7 @@ authors:
   - family-names: "Oliveira"
     given-names: "Mauro Artur Gomes de"
 license: MIT
+repository-code: "https://github.com/MauroGomes09/dentex-yolo-tcc"
 preferred-citation:
   type: thesis
   title: "Desenvolvimento e Avaliação de um Modelo de Deep Learning para Detecção de Patologias em Radiografias Panorâmicas"
