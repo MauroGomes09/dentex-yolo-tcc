@@ -45,7 +45,7 @@ assert len(TESTE) == 106
 with RemoteZip(hf_hub_url(REPO, f"DENTEX/{TRAIN_ZIP}", repo_type="dataset")) as z:
     coco = json.loads(z.read(TRAIN_JSON))
 
-# Mesma regra do notebook modelo_final.ipynb para montar o número FDI (quadrante + dente)
+# Mesma regra do notebook 04_modelo_final_teste_interno.ipynb para montar o número FDI (quadrante + dente)
 num = lambda nome, i: (re.sub(r"\D", "", str(nome)) or str(i + 1))
 q = {c["id"]: num(c["name"], c["id"]) for c in coco.get("categories_1", [])}
 d = {c["id"]: num(c["name"], c["id"]) for c in coco.get("categories_2", [])}

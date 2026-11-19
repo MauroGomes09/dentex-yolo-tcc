@@ -1,6 +1,6 @@
 """Análise do teste interno fora do Kaggle (sem GPU).
 
-Lê o teste_predicoes.json gerado por modelo_final.ipynb e produz:
+Lê o teste_predicoes.json gerado por 04_modelo_final_teste_interno.ipynb e produz:
   1. revocação por região da arcada (incisivos/caninos, pré-molares, molares) e por arcada
      (superior/inferior), usando o número FDI de cada anotação, com intervalo de Wilson de 95%;
   2. a lista de imagens candidatas a exemplos de acertos e erros (seção de exemplos qualitativos da monografia);
